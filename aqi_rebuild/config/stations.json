@@ -1,0 +1,943 @@
+{
+  "stations": [
+    {
+      "candidate_name": "Alipur",
+      "station_name": "Alipur, Delhi - DPCC",
+      "location_id": 6932,
+      "region": "North Delhi",
+      "latitude": 28.815329,
+      "longitude": 77.15301,
+      "has_pm25": true,
+      "active_sensors": {
+        "relativehumidity": 12235699,
+        "pm25": 12235698,
+        "pm10": 12235697,
+        "co": 12235693,
+        "no": 12235694,
+        "so2": 12235700,
+        "no2": 12235695,
+        "temperature": 12235701,
+        "o3": 12235696,
+        "nox": 14340882,
+        "wind_speed": 14340884,
+        "wind_direction": 14340883
+      },
+      "all_sensors": {
+        "relativehumidity": [
+          12235699
+        ],
+        "pm25": [
+          12235698,
+          19935
+        ],
+        "pm10": [
+          12235697,
+          19936
+        ],
+        "co": [
+          12235693,
+          19939
+        ],
+        "no": [
+          12235694
+        ],
+        "so2": [
+          12235700,
+          19912
+        ],
+        "no2": [
+          12235695,
+          19948
+        ],
+        "temperature": [
+          12235701
+        ],
+        "o3": [
+          12235696,
+          19950
+        ],
+        "nox": [
+          14340882
+        ],
+        "wind_speed": [
+          14340884
+        ],
+        "wind_direction": [
+          14340883
+        ]
+      }
+    },
+    {
+      "candidate_name": "Bawana",
+      "station_name": "Bawana, Delhi - DPCC",
+      "location_id": 8472,
+      "region": "North Delhi",
+      "latitude": 28.7762,
+      "longitude": 77.051074,
+      "has_pm25": true,
+      "active_sensors": {
+        "pm25": 12235294,
+        "pm10": 12235293,
+        "temperature": 12235297,
+        "relativehumidity": 12235295,
+        "so2": 12235296,
+        "no": 12235290,
+        "no2": 12235291,
+        "o3": 12235292,
+        "co": 12235289,
+        "wind_direction": 14340809,
+        "nox": 14340808,
+        "wind_speed": 14340810
+      },
+      "all_sensors": {
+        "pm25": [
+          12235294,
+          36391
+        ],
+        "pm10": [
+          12235293,
+          24602
+        ],
+        "temperature": [
+          12235297
+        ],
+        "relativehumidity": [
+          12235295
+        ],
+        "so2": [
+          12235296
+        ],
+        "no": [
+          12235290
+        ],
+        "no2": [
+          12235291,
+          36394
+        ],
+        "o3": [
+          12235292,
+          36393
+        ],
+        "co": [
+          12235289,
+          36395
+        ],
+        "wind_direction": [
+          14340809
+        ],
+        "nox": [
+          14340808
+        ],
+        "wind_speed": [
+          14340810
+        ]
+      }
+    },
+    {
+      "candidate_name": "Rohini",
+      "station_name": "Rohini, Delhi - DPCC",
+      "location_id": 10831,
+      "region": "North Delhi",
+      "latitude": 28.732528,
+      "longitude": 77.11992,
+      "has_pm25": true,
+      "active_sensors": {
+        "o3": 12235090,
+        "pm10": 12235091,
+        "co": 12235087,
+        "relativehumidity": 12235093,
+        "no2": 12235089,
+        "pm25": 12235092,
+        "so2": 12235094,
+        "temperature": 12235095,
+        "no": 12235088,
+        "wind_direction": 14340767,
+        "wind_speed": 14340768,
+        "nox": 14340766
+      },
+      "all_sensors": {
+        "o3": [
+          12235090,
+          36213
+        ],
+        "pm10": [
+          12235091,
+          36382
+        ],
+        "co": [
+          12235087,
+          36208
+        ],
+        "relativehumidity": [
+          12235093
+        ],
+        "no2": [
+          12235089,
+          36209
+        ],
+        "pm25": [
+          12235092,
+          36399
+        ],
+        "so2": [
+          12235094,
+          36449
+        ],
+        "temperature": [
+          12235095
+        ],
+        "no": [
+          12235088
+        ],
+        "wind_direction": [
+          14340767
+        ],
+        "wind_speed": [
+          14340768
+        ],
+        "nox": [
+          14340766
+        ]
+      }
+    },
+    {
+      "candidate_name": "RK Puram",
+      "station_name": "R K Puram, Delhi - DPCC",
+      "location_id": 17,
+      "region": "South Delhi",
+      "latitude": 28.563262,
+      "longitude": 77.186937,
+      "has_pm25": true,
+      "active_sensors": {
+        "no": 12234783,
+        "o3": 12234785,
+        "pm25": 12234787,
+        "no2": 12234784,
+        "pm10": 12234786,
+        "co": 12234782,
+        "temperature": 12234790,
+        "relativehumidity": 12234788,
+        "so2": 12234789,
+        "wind_speed": 14340715,
+        "wind_direction": 14340714,
+        "nox": 14340713
+      },
+      "all_sensors": {
+        "no": [
+          12234783
+        ],
+        "o3": [
+          12234785,
+          394
+        ],
+        "pm25": [
+          12234787,
+          35
+        ],
+        "no2": [
+          12234784,
+          36
+        ],
+        "pm10": [
+          12234786,
+          399
+        ],
+        "co": [
+          12234782,
+          392
+        ],
+        "temperature": [
+          12234790
+        ],
+        "relativehumidity": [
+          12234788
+        ],
+        "so2": [
+          12234789,
+          393
+        ],
+        "wind_speed": [
+          14340715
+        ],
+        "wind_direction": [
+          14340714
+        ],
+        "nox": [
+          14340713
+        ]
+      }
+    },
+    {
+      "candidate_name": "Aya Nagar",
+      "station_name": "Aya Nagar, New Delhi - IMD",
+      "location_id": 5570,
+      "region": "South Delhi",
+      "latitude": 28.474261,
+      "longitude": 77.131606,
+      "has_pm25": true,
+      "active_sensors": {
+        "pm10": 12234707,
+        "pm25": 12234708,
+        "no": 12234704,
+        "no2": 12234705,
+        "o3": 12234706,
+        "co": 12234703,
+        "nox": 14340701
+      },
+      "all_sensors": {
+        "pm10": [
+          12234707,
+          15027
+        ],
+        "pm25": [
+          12234708,
+          14717
+        ],
+        "no": [
+          12234704
+        ],
+        "no2": [
+          12234705,
+          15019
+        ],
+        "o3": [
+          12234706,
+          15021
+        ],
+        "co": [
+          12234703,
+          15010
+        ],
+        "nox": [
+          14340701
+        ]
+      }
+    },
+    {
+      "candidate_name": "Lodhi Road",
+      "station_name": "Lodhi Road, New Delhi - IMD",
+      "location_id": 5634,
+      "region": "South Delhi",
+      "latitude": 28.5918245,
+      "longitude": 77.2273074,
+      "has_pm25": true,
+      "active_sensors": {
+        "pm10": 12234713,
+        "no2": 12234711,
+        "o3": 12234712,
+        "co": 12234709,
+        "pm25": 12234714,
+        "no": 12234710,
+        "nox": 14340702
+      },
+      "all_sensors": {
+        "pm10": [
+          12234713,
+          14983
+        ],
+        "no2": [
+          12234711,
+          14980
+        ],
+        "o3": [
+          12234712,
+          14981
+        ],
+        "co": [
+          12234709,
+          14978
+        ],
+        "pm25": [
+          12234714,
+          14984
+        ],
+        "no": [
+          12234710
+        ],
+        "nox": [
+          14340702
+        ]
+      }
+    },
+    {
+      "candidate_name": "Anand Vihar",
+      "station_name": "Anand Vihar, New Delhi - DPCC",
+      "location_id": 235,
+      "region": "East Delhi",
+      "latitude": 28.646835,
+      "longitude": 77.316032,
+      "has_pm25": true,
+      "active_sensors": {
+        "o3": 12235608,
+        "so2": 12235612,
+        "no2": 12235607,
+        "pm10": 12235609,
+        "co": 12235605,
+        "pm25": 12235610,
+        "no": 12235606,
+        "temperature": 12235613,
+        "relativehumidity": 12235611,
+        "wind_speed": 14340866,
+        "nox": 14340864,
+        "wind_direction": 14340865
+      },
+      "all_sensors": {
+        "o3": [
+          380,
+          12235608
+        ],
+        "so2": [
+          383,
+          12235612
+        ],
+        "no2": [
+          382,
+          12235607
+        ],
+        "pm10": [
+          381,
+          12235609
+        ],
+        "co": [
+          385,
+          12235605
+        ],
+        "pm25": [
+          384,
+          12235610
+        ],
+        "no": [
+          12235606
+        ],
+        "temperature": [
+          12235613
+        ],
+        "relativehumidity": [
+          12235611
+        ],
+        "wind_speed": [
+          14340866
+        ],
+        "nox": [
+          14340864
+        ],
+        "wind_direction": [
+          14340865
+        ]
+      }
+    },
+    {
+      "candidate_name": "Patparganj",
+      "station_name": "Patparganj, Delhi - DPCC",
+      "location_id": 6960,
+      "region": "East Delhi",
+      "latitude": 28.623748,
+      "longitude": 77.287205,
+      "has_pm25": true,
+      "active_sensors": {
+        "o3": 12235099,
+        "pm25": 12235101,
+        "so2": 12235103,
+        "no2": 12235098,
+        "pm10": 12235100,
+        "temperature": 12235104,
+        "co": 12235096,
+        "no": 12235097,
+        "relativehumidity": 12235102,
+        "nox": 14340769,
+        "wind_direction": 14340770,
+        "wind_speed": 14340771
+      },
+      "all_sensors": {
+        "o3": [
+          20039,
+          12235099
+        ],
+        "pm25": [
+          20049,
+          12235101
+        ],
+        "so2": [
+          20055,
+          12235103
+        ],
+        "no2": [
+          20037,
+          12235098
+        ],
+        "pm10": [
+          20040,
+          12235100
+        ],
+        "temperature": [
+          12235104
+        ],
+        "co": [
+          12235096
+        ],
+        "no": [
+          12235097
+        ],
+        "relativehumidity": [
+          12235102
+        ],
+        "nox": [
+          14340769
+        ],
+        "wind_direction": [
+          14340770
+        ],
+        "wind_speed": [
+          14340771
+        ]
+      }
+    },
+    {
+      "candidate_name": "Vivek Vihar",
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "location_id": 6938,
+      "region": "East Delhi",
+      "latitude": 28.672342,
+      "longitude": 77.31526,
+      "has_pm25": true,
+      "active_sensors": {
+        "co": 12235128,
+        "so2": 12235135,
+        "no": 12235129,
+        "relativehumidity": 12235134,
+        "pm25": 12235133,
+        "pm10": 12235132,
+        "o3": 12235131,
+        "temperature": 12235136,
+        "no2": 12235130,
+        "wind_direction": 14340779,
+        "wind_speed": 14340780,
+        "nox": 14340778
+      },
+      "all_sensors": {
+        "co": [
+          12235128,
+          19926
+        ],
+        "so2": [
+          12235135,
+          19938
+        ],
+        "no": [
+          12235129
+        ],
+        "relativehumidity": [
+          12235134
+        ],
+        "pm25": [
+          12235133,
+          19934
+        ],
+        "pm10": [
+          12235132,
+          19933
+        ],
+        "o3": [
+          12235131,
+          19932
+        ],
+        "temperature": [
+          12235136
+        ],
+        "no2": [
+          12235130,
+          19929
+        ],
+        "wind_direction": [
+          14340779
+        ],
+        "wind_speed": [
+          14340780
+        ],
+        "nox": [
+          14340778
+        ]
+      }
+    },
+    {
+      "candidate_name": "Punjabi Bagh",
+      "station_name": "Punjabi Bagh, Delhi - DPCC",
+      "location_id": 50,
+      "region": "West Delhi",
+      "latitude": 28.674045,
+      "longitude": 77.131023,
+      "has_pm25": true,
+      "active_sensors": {
+        "no": 12234792,
+        "so2": 12234798,
+        "pm25": 12234796,
+        "o3": 12234794,
+        "relativehumidity": 12234797,
+        "no2": 12234793,
+        "co": 12234791,
+        "pm10": 12234795,
+        "temperature": 12234799,
+        "wind_direction": 14340717,
+        "nox": 14340716,
+        "wind_speed": 14340718
+      },
+      "all_sensors": {
+        "no": [
+          12234792
+        ],
+        "so2": [
+          12234798,
+          397
+        ],
+        "pm25": [
+          12234796,
+          396
+        ],
+        "o3": [
+          12234794,
+          71
+        ],
+        "relativehumidity": [
+          12234797
+        ],
+        "no2": [
+          12234793,
+          400
+        ],
+        "co": [
+          12234791,
+          398
+        ],
+        "pm10": [
+          12234795,
+          395
+        ],
+        "temperature": [
+          12234799
+        ],
+        "wind_direction": [
+          14340717
+        ],
+        "nox": [
+          14340716
+        ],
+        "wind_speed": [
+          14340718
+        ]
+      }
+    },
+    {
+      "candidate_name": "Mundka",
+      "station_name": "Mundka, Delhi - DPCC",
+      "location_id": 10486,
+      "region": "West Delhi",
+      "latitude": 28.684678,
+      "longitude": 77.076574,
+      "has_pm25": true,
+      "active_sensors": {
+        "temperature": 12235306,
+        "no2": 12235300,
+        "pm10": 12235302,
+        "relativehumidity": 12235304,
+        "so2": 12235305,
+        "no": 12235299,
+        "co": 12235298,
+        "pm25": 12235303,
+        "o3": 12235301,
+        "nox": 14340811,
+        "wind_direction": 14340812,
+        "wind_speed": 14340813
+      },
+      "all_sensors": {
+        "temperature": [
+          12235306
+        ],
+        "no2": [
+          12235300,
+          34764
+        ],
+        "pm10": [
+          12235302,
+          34766
+        ],
+        "relativehumidity": [
+          12235304
+        ],
+        "so2": [
+          12235305,
+          34769
+        ],
+        "no": [
+          12235299
+        ],
+        "co": [
+          12235298,
+          34763
+        ],
+        "pm25": [
+          12235303,
+          34767
+        ],
+        "o3": [
+          12235301,
+          34765
+        ],
+        "nox": [
+          14340811
+        ],
+        "wind_direction": [
+          14340812
+        ],
+        "wind_speed": [
+          14340813
+        ]
+      }
+    },
+    {
+      "candidate_name": "Dwarka",
+      "station_name": "Dwarka-Sector 8, Delhi - DPCC",
+      "location_id": 6931,
+      "region": "West Delhi",
+      "latitude": 28.5710274,
+      "longitude": 77.0719006,
+      "has_pm25": true,
+      "active_sensors": {
+        "so2": 12235022,
+        "co": 12235015,
+        "no2": 12235017,
+        "temperature": 12235023,
+        "relativehumidity": 12235021,
+        "no": 12235016,
+        "pm10": 12235019,
+        "o3": 12235018,
+        "pm25": 12235020,
+        "nox": 14340743,
+        "wind_direction": 14340744,
+        "wind_speed": 14340745
+      },
+      "all_sensors": {
+        "so2": [
+          12235022,
+          20147
+        ],
+        "co": [
+          12235015,
+          19957
+        ],
+        "no2": [
+          12235017,
+          19956
+        ],
+        "temperature": [
+          12235023
+        ],
+        "relativehumidity": [
+          12235021
+        ],
+        "no": [
+          12235016
+        ],
+        "pm10": [
+          12235019,
+          19906
+        ],
+        "o3": [
+          12235018,
+          19954
+        ],
+        "pm25": [
+          12235020,
+          20150
+        ],
+        "nox": [
+          14340743
+        ],
+        "wind_direction": [
+          14340744
+        ],
+        "wind_speed": [
+          14340745
+        ]
+      }
+    },
+    {
+      "candidate_name": "ITO",
+      "station_name": "ITO, New Delhi - CPCB",
+      "location_id": 5613,
+      "region": "Central Delhi",
+      "latitude": 28.628624,
+      "longitude": 77.24106,
+      "has_pm25": true,
+      "active_sensors": {
+        "no2": 12234750,
+        "pm10": 12234752,
+        "pm25": 12234753,
+        "o3": 12234751,
+        "so2": 12234754,
+        "co": 12234748,
+        "no": 12234749,
+        "nox": 14341687
+      },
+      "all_sensors": {
+        "no2": [
+          14866,
+          12234750
+        ],
+        "pm10": [
+          14869,
+          12234752
+        ],
+        "pm25": [
+          14878,
+          12234753
+        ],
+        "o3": [
+          17785,
+          12234751
+        ],
+        "so2": [
+          17781,
+          12234754
+        ],
+        "co": [
+          17782,
+          12234748
+        ],
+        "no": [
+          12234749
+        ],
+        "nox": [
+          14341687
+        ]
+      }
+    },
+    {
+      "candidate_name": "Mandir Marg",
+      "station_name": "Mandir Marg, New Delhi - DPCC",
+      "location_id": 6358,
+      "region": "Central Delhi",
+      "latitude": 28.636429,
+      "longitude": 77.201067,
+      "has_pm25": true,
+      "active_sensors": {
+        "no": 12234774,
+        "pm10": 12234777,
+        "relativehumidity": 12234779,
+        "o3": 12234776,
+        "so2": 12234780,
+        "pm25": 12234778,
+        "no2": 12234775,
+        "temperature": 12234781,
+        "co": 12234773,
+        "wind_speed": 14340712,
+        "wind_direction": 14340711,
+        "nox": 14340710
+      },
+      "all_sensors": {
+        "no": [
+          12234774
+        ],
+        "pm10": [
+          12234777,
+          17775
+        ],
+        "relativehumidity": [
+          12234779
+        ],
+        "o3": [
+          12234776,
+          17777
+        ],
+        "so2": [
+          12234780,
+          17779
+        ],
+        "pm25": [
+          12234778,
+          17770
+        ],
+        "no2": [
+          12234775,
+          17773
+        ],
+        "temperature": [
+          12234781
+        ],
+        "co": [
+          12234773,
+          17772
+        ],
+        "wind_speed": [
+          14340712
+        ],
+        "wind_direction": [
+          14340711
+        ],
+        "nox": [
+          14340710
+        ]
+      }
+    },
+    {
+      "candidate_name": "Pusa",
+      "station_name": "Pusa, Delhi - DPCC",
+      "location_id": 6356,
+      "region": "Central Delhi",
+      "latitude": 28.639645,
+      "longitude": 77.146262,
+      "has_pm25": true,
+      "active_sensors": {
+        "co": 12235316,
+        "pm10": 12235320,
+        "no2": 12235318,
+        "so2": 12235323,
+        "pm25": 12235321,
+        "relativehumidity": 12235322,
+        "temperature": 12235324,
+        "o3": 12235319,
+        "no": 12235317,
+        "nox": 14340817,
+        "wind_direction": 14340818,
+        "wind_speed": 14340819
+      },
+      "all_sensors": {
+        "co": [
+          12235316
+        ],
+        "pm10": [
+          12235320
+        ],
+        "no2": [
+          12235318
+        ],
+        "so2": [
+          12235323
+        ],
+        "pm25": [
+          12235321
+        ],
+        "relativehumidity": [
+          12235322
+        ],
+        "temperature": [
+          12235324
+        ],
+        "o3": [
+          12235319
+        ],
+        "no": [
+          12235317
+        ],
+        "nox": [
+          14340817
+        ],
+        "wind_direction": [
+          14340818
+        ],
+        "wind_speed": [
+          14340819
+        ]
+      }
+    }
+  ]
+}

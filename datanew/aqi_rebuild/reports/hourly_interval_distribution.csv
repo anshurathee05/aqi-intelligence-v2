@@ -1,0 +1,452 @@
+location_id,station_name,interval_hours,count
+17,"R K Puram, Delhi - DPCC",1.0,13490
+17,"R K Puram, Delhi - DPCC",2.0,121
+17,"R K Puram, Delhi - DPCC",3.0,24
+17,"R K Puram, Delhi - DPCC",4.0,16
+17,"R K Puram, Delhi - DPCC",5.0,10
+17,"R K Puram, Delhi - DPCC",6.0,8
+17,"R K Puram, Delhi - DPCC",7.0,7
+17,"R K Puram, Delhi - DPCC",8.0,3
+17,"R K Puram, Delhi - DPCC",9.0,5
+17,"R K Puram, Delhi - DPCC",10.0,7
+17,"R K Puram, Delhi - DPCC",11.0,4
+17,"R K Puram, Delhi - DPCC",12.0,3
+17,"R K Puram, Delhi - DPCC",13.0,2
+17,"R K Puram, Delhi - DPCC",14.0,3
+17,"R K Puram, Delhi - DPCC",15.0,1
+17,"R K Puram, Delhi - DPCC",16.0,2
+17,"R K Puram, Delhi - DPCC",17.0,1
+17,"R K Puram, Delhi - DPCC",19.0,2
+17,"R K Puram, Delhi - DPCC",20.0,1
+17,"R K Puram, Delhi - DPCC",21.0,3
+17,"R K Puram, Delhi - DPCC",23.0,1
+17,"R K Puram, Delhi - DPCC",24.0,1
+17,"R K Puram, Delhi - DPCC",25.0,1
+17,"R K Puram, Delhi - DPCC",28.0,1
+17,"R K Puram, Delhi - DPCC",32.0,1
+17,"R K Puram, Delhi - DPCC",33.0,1
+17,"R K Puram, Delhi - DPCC",34.0,1
+17,"R K Puram, Delhi - DPCC",36.0,1
+17,"R K Puram, Delhi - DPCC",43.0,1
+17,"R K Puram, Delhi - DPCC",53.0,1
+17,"R K Puram, Delhi - DPCC",61.0,1
+17,"R K Puram, Delhi - DPCC",84.0,1
+17,"R K Puram, Delhi - DPCC",243.0,1
+50,"Punjabi Bagh, Delhi - DPCC",1.0,13393
+50,"Punjabi Bagh, Delhi - DPCC",2.0,127
+50,"Punjabi Bagh, Delhi - DPCC",3.0,36
+50,"Punjabi Bagh, Delhi - DPCC",4.0,21
+50,"Punjabi Bagh, Delhi - DPCC",5.0,11
+50,"Punjabi Bagh, Delhi - DPCC",6.0,11
+50,"Punjabi Bagh, Delhi - DPCC",7.0,7
+50,"Punjabi Bagh, Delhi - DPCC",8.0,2
+50,"Punjabi Bagh, Delhi - DPCC",9.0,4
+50,"Punjabi Bagh, Delhi - DPCC",10.0,7
+50,"Punjabi Bagh, Delhi - DPCC",11.0,3
+50,"Punjabi Bagh, Delhi - DPCC",12.0,1
+50,"Punjabi Bagh, Delhi - DPCC",13.0,1
+50,"Punjabi Bagh, Delhi - DPCC",14.0,6
+50,"Punjabi Bagh, Delhi - DPCC",15.0,1
+50,"Punjabi Bagh, Delhi - DPCC",16.0,1
+50,"Punjabi Bagh, Delhi - DPCC",17.0,1
+50,"Punjabi Bagh, Delhi - DPCC",18.0,2
+50,"Punjabi Bagh, Delhi - DPCC",19.0,1
+50,"Punjabi Bagh, Delhi - DPCC",20.0,1
+50,"Punjabi Bagh, Delhi - DPCC",21.0,1
+50,"Punjabi Bagh, Delhi - DPCC",22.0,1
+50,"Punjabi Bagh, Delhi - DPCC",23.0,1
+50,"Punjabi Bagh, Delhi - DPCC",24.0,1
+50,"Punjabi Bagh, Delhi - DPCC",28.0,1
+50,"Punjabi Bagh, Delhi - DPCC",33.0,1
+50,"Punjabi Bagh, Delhi - DPCC",42.0,1
+50,"Punjabi Bagh, Delhi - DPCC",53.0,1
+50,"Punjabi Bagh, Delhi - DPCC",61.0,1
+50,"Punjabi Bagh, Delhi - DPCC",77.0,1
+50,"Punjabi Bagh, Delhi - DPCC",84.0,1
+50,"Punjabi Bagh, Delhi - DPCC",100.0,1
+50,"Punjabi Bagh, Delhi - DPCC",243.0,1
+235,"Anand Vihar, New Delhi - DPCC",1.0,13484
+235,"Anand Vihar, New Delhi - DPCC",2.0,126
+235,"Anand Vihar, New Delhi - DPCC",3.0,33
+235,"Anand Vihar, New Delhi - DPCC",4.0,16
+235,"Anand Vihar, New Delhi - DPCC",5.0,10
+235,"Anand Vihar, New Delhi - DPCC",6.0,8
+235,"Anand Vihar, New Delhi - DPCC",7.0,7
+235,"Anand Vihar, New Delhi - DPCC",8.0,3
+235,"Anand Vihar, New Delhi - DPCC",9.0,6
+235,"Anand Vihar, New Delhi - DPCC",10.0,6
+235,"Anand Vihar, New Delhi - DPCC",11.0,3
+235,"Anand Vihar, New Delhi - DPCC",12.0,3
+235,"Anand Vihar, New Delhi - DPCC",13.0,2
+235,"Anand Vihar, New Delhi - DPCC",14.0,4
+235,"Anand Vihar, New Delhi - DPCC",15.0,2
+235,"Anand Vihar, New Delhi - DPCC",16.0,3
+235,"Anand Vihar, New Delhi - DPCC",17.0,5
+235,"Anand Vihar, New Delhi - DPCC",18.0,1
+235,"Anand Vihar, New Delhi - DPCC",20.0,2
+235,"Anand Vihar, New Delhi - DPCC",21.0,1
+235,"Anand Vihar, New Delhi - DPCC",24.0,1
+235,"Anand Vihar, New Delhi - DPCC",25.0,1
+235,"Anand Vihar, New Delhi - DPCC",28.0,1
+235,"Anand Vihar, New Delhi - DPCC",32.0,1
+235,"Anand Vihar, New Delhi - DPCC",33.0,1
+235,"Anand Vihar, New Delhi - DPCC",45.0,1
+235,"Anand Vihar, New Delhi - DPCC",53.0,1
+235,"Anand Vihar, New Delhi - DPCC",61.0,1
+235,"Anand Vihar, New Delhi - DPCC",84.0,1
+235,"Anand Vihar, New Delhi - DPCC",243.0,1
+5570,"Aya Nagar, New Delhi - IMD",1.0,2901
+5570,"Aya Nagar, New Delhi - IMD",2.0,26
+5570,"Aya Nagar, New Delhi - IMD",3.0,14
+5570,"Aya Nagar, New Delhi - IMD",4.0,7
+5570,"Aya Nagar, New Delhi - IMD",5.0,5
+5570,"Aya Nagar, New Delhi - IMD",6.0,1
+5570,"Aya Nagar, New Delhi - IMD",7.0,1
+5570,"Aya Nagar, New Delhi - IMD",8.0,3
+5570,"Aya Nagar, New Delhi - IMD",9.0,1
+5570,"Aya Nagar, New Delhi - IMD",10.0,4
+5570,"Aya Nagar, New Delhi - IMD",11.0,3
+5570,"Aya Nagar, New Delhi - IMD",12.0,2
+5570,"Aya Nagar, New Delhi - IMD",15.0,1
+5570,"Aya Nagar, New Delhi - IMD",16.0,1
+5570,"Aya Nagar, New Delhi - IMD",18.0,2
+5570,"Aya Nagar, New Delhi - IMD",22.0,1
+5570,"Aya Nagar, New Delhi - IMD",24.0,1
+5570,"Aya Nagar, New Delhi - IMD",25.0,1
+5570,"Aya Nagar, New Delhi - IMD",26.0,1
+5570,"Aya Nagar, New Delhi - IMD",31.0,1
+5570,"Aya Nagar, New Delhi - IMD",44.0,2
+5570,"Aya Nagar, New Delhi - IMD",45.0,1
+5570,"Aya Nagar, New Delhi - IMD",51.0,1
+5570,"Aya Nagar, New Delhi - IMD",57.0,1
+5570,"Aya Nagar, New Delhi - IMD",61.0,1
+5570,"Aya Nagar, New Delhi - IMD",78.0,1
+5570,"Aya Nagar, New Delhi - IMD",96.0,1
+5570,"Aya Nagar, New Delhi - IMD",97.0,1
+5570,"Aya Nagar, New Delhi - IMD",112.0,1
+5613,"ITO, New Delhi - CPCB",1.0,13713
+5613,"ITO, New Delhi - CPCB",2.0,116
+5613,"ITO, New Delhi - CPCB",3.0,28
+5613,"ITO, New Delhi - CPCB",4.0,13
+5613,"ITO, New Delhi - CPCB",5.0,5
+5613,"ITO, New Delhi - CPCB",6.0,5
+5613,"ITO, New Delhi - CPCB",7.0,5
+5613,"ITO, New Delhi - CPCB",8.0,1
+5613,"ITO, New Delhi - CPCB",9.0,5
+5613,"ITO, New Delhi - CPCB",10.0,6
+5613,"ITO, New Delhi - CPCB",11.0,1
+5613,"ITO, New Delhi - CPCB",13.0,1
+5613,"ITO, New Delhi - CPCB",14.0,4
+5613,"ITO, New Delhi - CPCB",15.0,1
+5613,"ITO, New Delhi - CPCB",16.0,1
+5613,"ITO, New Delhi - CPCB",17.0,2
+5613,"ITO, New Delhi - CPCB",18.0,4
+5613,"ITO, New Delhi - CPCB",21.0,1
+5613,"ITO, New Delhi - CPCB",22.0,1
+5613,"ITO, New Delhi - CPCB",24.0,1
+5613,"ITO, New Delhi - CPCB",25.0,1
+5613,"ITO, New Delhi - CPCB",27.0,1
+5613,"ITO, New Delhi - CPCB",32.0,1
+5613,"ITO, New Delhi - CPCB",33.0,1
+5613,"ITO, New Delhi - CPCB",50.0,1
+5613,"ITO, New Delhi - CPCB",53.0,1
+5613,"ITO, New Delhi - CPCB",62.0,1
+5613,"ITO, New Delhi - CPCB",115.0,1
+5613,"ITO, New Delhi - CPCB",243.0,1
+5634,"Lodhi Road, New Delhi - IMD",1.0,7840
+5634,"Lodhi Road, New Delhi - IMD",2.0,74
+5634,"Lodhi Road, New Delhi - IMD",3.0,21
+5634,"Lodhi Road, New Delhi - IMD",4.0,8
+5634,"Lodhi Road, New Delhi - IMD",5.0,5
+5634,"Lodhi Road, New Delhi - IMD",6.0,1
+5634,"Lodhi Road, New Delhi - IMD",7.0,2
+5634,"Lodhi Road, New Delhi - IMD",8.0,1
+5634,"Lodhi Road, New Delhi - IMD",9.0,3
+5634,"Lodhi Road, New Delhi - IMD",10.0,3
+5634,"Lodhi Road, New Delhi - IMD",11.0,1
+5634,"Lodhi Road, New Delhi - IMD",12.0,1
+5634,"Lodhi Road, New Delhi - IMD",13.0,1
+5634,"Lodhi Road, New Delhi - IMD",14.0,2
+5634,"Lodhi Road, New Delhi - IMD",15.0,3
+5634,"Lodhi Road, New Delhi - IMD",16.0,1
+5634,"Lodhi Road, New Delhi - IMD",17.0,4
+5634,"Lodhi Road, New Delhi - IMD",18.0,1
+5634,"Lodhi Road, New Delhi - IMD",19.0,2
+5634,"Lodhi Road, New Delhi - IMD",20.0,1
+5634,"Lodhi Road, New Delhi - IMD",22.0,1
+5634,"Lodhi Road, New Delhi - IMD",25.0,1
+5634,"Lodhi Road, New Delhi - IMD",26.0,1
+5634,"Lodhi Road, New Delhi - IMD",27.0,1
+5634,"Lodhi Road, New Delhi - IMD",31.0,1
+5634,"Lodhi Road, New Delhi - IMD",46.0,1
+5634,"Lodhi Road, New Delhi - IMD",51.0,1
+5634,"Lodhi Road, New Delhi - IMD",64.0,1
+5634,"Lodhi Road, New Delhi - IMD",95.0,1
+5634,"Lodhi Road, New Delhi - IMD",243.0,1
+5634,"Lodhi Road, New Delhi - IMD",1458.0,1
+6356,"Pusa, Delhi - DPCC",1.0,13684
+6356,"Pusa, Delhi - DPCC",2.0,108
+6356,"Pusa, Delhi - DPCC",3.0,21
+6356,"Pusa, Delhi - DPCC",4.0,12
+6356,"Pusa, Delhi - DPCC",5.0,10
+6356,"Pusa, Delhi - DPCC",6.0,9
+6356,"Pusa, Delhi - DPCC",7.0,7
+6356,"Pusa, Delhi - DPCC",9.0,1
+6356,"Pusa, Delhi - DPCC",10.0,6
+6356,"Pusa, Delhi - DPCC",11.0,1
+6356,"Pusa, Delhi - DPCC",12.0,2
+6356,"Pusa, Delhi - DPCC",13.0,1
+6356,"Pusa, Delhi - DPCC",14.0,2
+6356,"Pusa, Delhi - DPCC",15.0,2
+6356,"Pusa, Delhi - DPCC",16.0,2
+6356,"Pusa, Delhi - DPCC",17.0,3
+6356,"Pusa, Delhi - DPCC",19.0,1
+6356,"Pusa, Delhi - DPCC",20.0,3
+6356,"Pusa, Delhi - DPCC",21.0,1
+6356,"Pusa, Delhi - DPCC",23.0,1
+6356,"Pusa, Delhi - DPCC",24.0,1
+6356,"Pusa, Delhi - DPCC",25.0,1
+6356,"Pusa, Delhi - DPCC",28.0,1
+6356,"Pusa, Delhi - DPCC",33.0,1
+6356,"Pusa, Delhi - DPCC",36.0,1
+6356,"Pusa, Delhi - DPCC",53.0,1
+6356,"Pusa, Delhi - DPCC",62.0,1
+6356,"Pusa, Delhi - DPCC",75.0,1
+6356,"Pusa, Delhi - DPCC",84.0,1
+6356,"Pusa, Delhi - DPCC",243.0,1
+6358,"Mandir Marg, New Delhi - DPCC",1.0,13500
+6358,"Mandir Marg, New Delhi - DPCC",2.0,138
+6358,"Mandir Marg, New Delhi - DPCC",3.0,33
+6358,"Mandir Marg, New Delhi - DPCC",4.0,21
+6358,"Mandir Marg, New Delhi - DPCC",5.0,13
+6358,"Mandir Marg, New Delhi - DPCC",6.0,6
+6358,"Mandir Marg, New Delhi - DPCC",7.0,4
+6358,"Mandir Marg, New Delhi - DPCC",8.0,2
+6358,"Mandir Marg, New Delhi - DPCC",9.0,4
+6358,"Mandir Marg, New Delhi - DPCC",10.0,8
+6358,"Mandir Marg, New Delhi - DPCC",11.0,5
+6358,"Mandir Marg, New Delhi - DPCC",12.0,2
+6358,"Mandir Marg, New Delhi - DPCC",13.0,1
+6358,"Mandir Marg, New Delhi - DPCC",14.0,3
+6358,"Mandir Marg, New Delhi - DPCC",15.0,2
+6358,"Mandir Marg, New Delhi - DPCC",16.0,4
+6358,"Mandir Marg, New Delhi - DPCC",17.0,3
+6358,"Mandir Marg, New Delhi - DPCC",18.0,1
+6358,"Mandir Marg, New Delhi - DPCC",19.0,2
+6358,"Mandir Marg, New Delhi - DPCC",20.0,1
+6358,"Mandir Marg, New Delhi - DPCC",21.0,1
+6358,"Mandir Marg, New Delhi - DPCC",23.0,1
+6358,"Mandir Marg, New Delhi - DPCC",24.0,1
+6358,"Mandir Marg, New Delhi - DPCC",26.0,1
+6358,"Mandir Marg, New Delhi - DPCC",28.0,1
+6358,"Mandir Marg, New Delhi - DPCC",33.0,1
+6358,"Mandir Marg, New Delhi - DPCC",36.0,1
+6358,"Mandir Marg, New Delhi - DPCC",53.0,1
+6358,"Mandir Marg, New Delhi - DPCC",62.0,1
+6358,"Mandir Marg, New Delhi - DPCC",84.0,1
+6358,"Mandir Marg, New Delhi - DPCC",243.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",1.0,13701
+6931,"Dwarka-Sector 8, Delhi - DPCC",2.0,117
+6931,"Dwarka-Sector 8, Delhi - DPCC",3.0,27
+6931,"Dwarka-Sector 8, Delhi - DPCC",4.0,13
+6931,"Dwarka-Sector 8, Delhi - DPCC",5.0,11
+6931,"Dwarka-Sector 8, Delhi - DPCC",6.0,5
+6931,"Dwarka-Sector 8, Delhi - DPCC",7.0,6
+6931,"Dwarka-Sector 8, Delhi - DPCC",8.0,3
+6931,"Dwarka-Sector 8, Delhi - DPCC",9.0,3
+6931,"Dwarka-Sector 8, Delhi - DPCC",10.0,6
+6931,"Dwarka-Sector 8, Delhi - DPCC",11.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",12.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",13.0,2
+6931,"Dwarka-Sector 8, Delhi - DPCC",14.0,3
+6931,"Dwarka-Sector 8, Delhi - DPCC",15.0,2
+6931,"Dwarka-Sector 8, Delhi - DPCC",16.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",17.0,2
+6931,"Dwarka-Sector 8, Delhi - DPCC",19.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",20.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",21.0,2
+6931,"Dwarka-Sector 8, Delhi - DPCC",23.0,2
+6931,"Dwarka-Sector 8, Delhi - DPCC",24.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",28.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",33.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",53.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",61.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",78.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",84.0,1
+6931,"Dwarka-Sector 8, Delhi - DPCC",243.0,1
+6932,"Alipur, Delhi - DPCC",1.0,13238
+6932,"Alipur, Delhi - DPCC",2.0,117
+6932,"Alipur, Delhi - DPCC",3.0,44
+6932,"Alipur, Delhi - DPCC",4.0,22
+6932,"Alipur, Delhi - DPCC",5.0,14
+6932,"Alipur, Delhi - DPCC",6.0,8
+6932,"Alipur, Delhi - DPCC",7.0,9
+6932,"Alipur, Delhi - DPCC",8.0,6
+6932,"Alipur, Delhi - DPCC",9.0,4
+6932,"Alipur, Delhi - DPCC",10.0,6
+6932,"Alipur, Delhi - DPCC",11.0,1
+6932,"Alipur, Delhi - DPCC",12.0,2
+6932,"Alipur, Delhi - DPCC",13.0,1
+6932,"Alipur, Delhi - DPCC",14.0,6
+6932,"Alipur, Delhi - DPCC",15.0,5
+6932,"Alipur, Delhi - DPCC",16.0,2
+6932,"Alipur, Delhi - DPCC",17.0,1
+6932,"Alipur, Delhi - DPCC",19.0,2
+6932,"Alipur, Delhi - DPCC",20.0,2
+6932,"Alipur, Delhi - DPCC",21.0,2
+6932,"Alipur, Delhi - DPCC",22.0,2
+6932,"Alipur, Delhi - DPCC",24.0,1
+6932,"Alipur, Delhi - DPCC",28.0,1
+6932,"Alipur, Delhi - DPCC",29.0,1
+6932,"Alipur, Delhi - DPCC",30.0,1
+6932,"Alipur, Delhi - DPCC",34.0,1
+6932,"Alipur, Delhi - DPCC",35.0,1
+6932,"Alipur, Delhi - DPCC",53.0,1
+6932,"Alipur, Delhi - DPCC",61.0,1
+6932,"Alipur, Delhi - DPCC",84.0,1
+6932,"Alipur, Delhi - DPCC",143.0,1
+6932,"Alipur, Delhi - DPCC",243.0,1
+6938,"Vivek Vihar, Delhi - DPCC",1.0,13535
+6938,"Vivek Vihar, Delhi - DPCC",2.0,116
+6938,"Vivek Vihar, Delhi - DPCC",3.0,28
+6938,"Vivek Vihar, Delhi - DPCC",4.0,13
+6938,"Vivek Vihar, Delhi - DPCC",5.0,9
+6938,"Vivek Vihar, Delhi - DPCC",6.0,4
+6938,"Vivek Vihar, Delhi - DPCC",7.0,6
+6938,"Vivek Vihar, Delhi - DPCC",8.0,3
+6938,"Vivek Vihar, Delhi - DPCC",9.0,5
+6938,"Vivek Vihar, Delhi - DPCC",10.0,9
+6938,"Vivek Vihar, Delhi - DPCC",11.0,4
+6938,"Vivek Vihar, Delhi - DPCC",12.0,5
+6938,"Vivek Vihar, Delhi - DPCC",13.0,2
+6938,"Vivek Vihar, Delhi - DPCC",14.0,4
+6938,"Vivek Vihar, Delhi - DPCC",15.0,5
+6938,"Vivek Vihar, Delhi - DPCC",16.0,2
+6938,"Vivek Vihar, Delhi - DPCC",17.0,2
+6938,"Vivek Vihar, Delhi - DPCC",18.0,2
+6938,"Vivek Vihar, Delhi - DPCC",19.0,1
+6938,"Vivek Vihar, Delhi - DPCC",20.0,3
+6938,"Vivek Vihar, Delhi - DPCC",21.0,2
+6938,"Vivek Vihar, Delhi - DPCC",24.0,2
+6938,"Vivek Vihar, Delhi - DPCC",27.0,1
+6938,"Vivek Vihar, Delhi - DPCC",33.0,1
+6938,"Vivek Vihar, Delhi - DPCC",53.0,1
+6938,"Vivek Vihar, Delhi - DPCC",62.0,1
+6938,"Vivek Vihar, Delhi - DPCC",84.0,1
+6938,"Vivek Vihar, Delhi - DPCC",243.0,1
+6960,"Patparganj, Delhi - DPCC",1.0,13561
+6960,"Patparganj, Delhi - DPCC",2.0,115
+6960,"Patparganj, Delhi - DPCC",3.0,21
+6960,"Patparganj, Delhi - DPCC",4.0,18
+6960,"Patparganj, Delhi - DPCC",5.0,10
+6960,"Patparganj, Delhi - DPCC",6.0,4
+6960,"Patparganj, Delhi - DPCC",7.0,8
+6960,"Patparganj, Delhi - DPCC",9.0,3
+6960,"Patparganj, Delhi - DPCC",10.0,8
+6960,"Patparganj, Delhi - DPCC",11.0,3
+6960,"Patparganj, Delhi - DPCC",12.0,3
+6960,"Patparganj, Delhi - DPCC",13.0,1
+6960,"Patparganj, Delhi - DPCC",14.0,4
+6960,"Patparganj, Delhi - DPCC",15.0,3
+6960,"Patparganj, Delhi - DPCC",16.0,2
+6960,"Patparganj, Delhi - DPCC",17.0,1
+6960,"Patparganj, Delhi - DPCC",18.0,1
+6960,"Patparganj, Delhi - DPCC",19.0,3
+6960,"Patparganj, Delhi - DPCC",20.0,1
+6960,"Patparganj, Delhi - DPCC",21.0,1
+6960,"Patparganj, Delhi - DPCC",24.0,2
+6960,"Patparganj, Delhi - DPCC",25.0,1
+6960,"Patparganj, Delhi - DPCC",28.0,1
+6960,"Patparganj, Delhi - DPCC",31.0,1
+6960,"Patparganj, Delhi - DPCC",33.0,1
+6960,"Patparganj, Delhi - DPCC",42.0,1
+6960,"Patparganj, Delhi - DPCC",48.0,1
+6960,"Patparganj, Delhi - DPCC",53.0,1
+6960,"Patparganj, Delhi - DPCC",61.0,1
+6960,"Patparganj, Delhi - DPCC",84.0,1
+6960,"Patparganj, Delhi - DPCC",243.0,1
+8472,"Bawana, Delhi - DPCC",1.0,13682
+8472,"Bawana, Delhi - DPCC",2.0,111
+8472,"Bawana, Delhi - DPCC",3.0,23
+8472,"Bawana, Delhi - DPCC",4.0,18
+8472,"Bawana, Delhi - DPCC",5.0,10
+8472,"Bawana, Delhi - DPCC",6.0,5
+8472,"Bawana, Delhi - DPCC",7.0,6
+8472,"Bawana, Delhi - DPCC",8.0,2
+8472,"Bawana, Delhi - DPCC",9.0,4
+8472,"Bawana, Delhi - DPCC",10.0,6
+8472,"Bawana, Delhi - DPCC",11.0,2
+8472,"Bawana, Delhi - DPCC",12.0,1
+8472,"Bawana, Delhi - DPCC",14.0,3
+8472,"Bawana, Delhi - DPCC",15.0,1
+8472,"Bawana, Delhi - DPCC",16.0,3
+8472,"Bawana, Delhi - DPCC",17.0,3
+8472,"Bawana, Delhi - DPCC",19.0,1
+8472,"Bawana, Delhi - DPCC",20.0,1
+8472,"Bawana, Delhi - DPCC",21.0,1
+8472,"Bawana, Delhi - DPCC",23.0,1
+8472,"Bawana, Delhi - DPCC",24.0,1
+8472,"Bawana, Delhi - DPCC",28.0,1
+8472,"Bawana, Delhi - DPCC",45.0,1
+8472,"Bawana, Delhi - DPCC",51.0,1
+8472,"Bawana, Delhi - DPCC",53.0,1
+8472,"Bawana, Delhi - DPCC",61.0,1
+8472,"Bawana, Delhi - DPCC",64.0,1
+8472,"Bawana, Delhi - DPCC",84.0,1
+8472,"Bawana, Delhi - DPCC",243.0,1
+10486,"Mundka, Delhi - DPCC",1.0,13673
+10486,"Mundka, Delhi - DPCC",2.0,126
+10486,"Mundka, Delhi - DPCC",3.0,38
+10486,"Mundka, Delhi - DPCC",4.0,19
+10486,"Mundka, Delhi - DPCC",5.0,11
+10486,"Mundka, Delhi - DPCC",6.0,6
+10486,"Mundka, Delhi - DPCC",7.0,6
+10486,"Mundka, Delhi - DPCC",8.0,1
+10486,"Mundka, Delhi - DPCC",9.0,4
+10486,"Mundka, Delhi - DPCC",10.0,7
+10486,"Mundka, Delhi - DPCC",11.0,3
+10486,"Mundka, Delhi - DPCC",12.0,1
+10486,"Mundka, Delhi - DPCC",13.0,2
+10486,"Mundka, Delhi - DPCC",14.0,2
+10486,"Mundka, Delhi - DPCC",15.0,3
+10486,"Mundka, Delhi - DPCC",16.0,3
+10486,"Mundka, Delhi - DPCC",17.0,1
+10486,"Mundka, Delhi - DPCC",19.0,1
+10486,"Mundka, Delhi - DPCC",20.0,1
+10486,"Mundka, Delhi - DPCC",21.0,1
+10486,"Mundka, Delhi - DPCC",24.0,1
+10486,"Mundka, Delhi - DPCC",25.0,2
+10486,"Mundka, Delhi - DPCC",28.0,1
+10486,"Mundka, Delhi - DPCC",33.0,1
+10486,"Mundka, Delhi - DPCC",53.0,1
+10486,"Mundka, Delhi - DPCC",62.0,1
+10486,"Mundka, Delhi - DPCC",84.0,1
+10486,"Mundka, Delhi - DPCC",243.0,1
+10831,"Rohini, Delhi - DPCC",1.0,13855
+10831,"Rohini, Delhi - DPCC",2.0,109
+10831,"Rohini, Delhi - DPCC",3.0,24
+10831,"Rohini, Delhi - DPCC",4.0,13
+10831,"Rohini, Delhi - DPCC",5.0,9
+10831,"Rohini, Delhi - DPCC",6.0,5
+10831,"Rohini, Delhi - DPCC",7.0,8
+10831,"Rohini, Delhi - DPCC",8.0,1
+10831,"Rohini, Delhi - DPCC",9.0,3
+10831,"Rohini, Delhi - DPCC",10.0,5
+10831,"Rohini, Delhi - DPCC",11.0,3
+10831,"Rohini, Delhi - DPCC",12.0,1
+10831,"Rohini, Delhi - DPCC",13.0,1
+10831,"Rohini, Delhi - DPCC",14.0,3
+10831,"Rohini, Delhi - DPCC",15.0,2
+10831,"Rohini, Delhi - DPCC",16.0,1
+10831,"Rohini, Delhi - DPCC",17.0,1
+10831,"Rohini, Delhi - DPCC",19.0,2
+10831,"Rohini, Delhi - DPCC",20.0,1
+10831,"Rohini, Delhi - DPCC",21.0,1
+10831,"Rohini, Delhi - DPCC",24.0,1
+10831,"Rohini, Delhi - DPCC",25.0,1
+10831,"Rohini, Delhi - DPCC",28.0,1
+10831,"Rohini, Delhi - DPCC",33.0,1
+10831,"Rohini, Delhi - DPCC",53.0,1
+10831,"Rohini, Delhi - DPCC",61.0,1
+10831,"Rohini, Delhi - DPCC",84.0,1
+10831,"Rohini, Delhi - DPCC",243.0,1

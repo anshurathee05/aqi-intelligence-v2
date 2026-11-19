@@ -1,0 +1,8 @@
+Dataset shape: (190514, 19)
+Exact duplicate rows: 0
+Invalid timestamps: 0
+Unique timestamps: 14214
+Earliest UTC: 2025-02-18 19:30:00+00:00
+Latest UTC: 2026-11-14 11:30:00+00:00
+Station count: 15
+Columns: ['observed_at', 'location_id', 'station_name', 'candidate_station', 'region', 'latitude', 'longitude', 'co', 'no', 'no2', 'nox', 'o3', 'pm10', 'pm25', 'relative_humidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']

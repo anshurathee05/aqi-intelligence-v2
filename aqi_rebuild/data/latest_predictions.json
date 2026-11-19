@@ -1,0 +1,1190 @@
+{
+  "generated_at": "2026-11-19 05:50:34",
+  "model_1h": "GradientBoostingClassifier (45-feature)",
+  "model_3h": "GradientBoostingClassifier (45-feature)",
+  "station_count": 25,
+  "stations": [
+    {
+      "station_name": "Alipur, Delhi - DPCC",
+      "candidate_station": "Alipur",
+      "region": "North Delhi",
+      "latitude": 28.815329,
+      "longitude": 77.15301,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 199.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9985,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0004,
+          "Poor": 0.0008,
+          "Satisfactory": 0.0002,
+          "Severe": 0.0,
+          "Very Poor": 0.9985
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9939,
+        "probabilities": {
+          "Good": 0.0003,
+          "Moderate": 0.0011,
+          "Poor": 0.0019,
+          "Satisfactory": 0.0006,
+          "Severe": 0.0023,
+          "Very Poor": 0.9939
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 320.0,
+        "no2": 42.9,
+        "so2": 12.7,
+        "co": 1.79,
+        "o3": 9.4,
+        "temperature": 17.4,
+        "relative_humidity": 93.0,
+        "wind_speed": 0.7,
+        "wind_direction": 5.0
+      }
+    },
+    {
+      "station_name": "Anand Vihar, New Delhi - DPCC",
+      "candidate_station": "Anand Vihar",
+      "region": "East Delhi",
+      "latitude": 28.646835,
+      "longitude": 77.316032,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 173.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9934,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0005,
+          "Poor": 0.001,
+          "Satisfactory": 0.0002,
+          "Severe": 0.0048,
+          "Very Poor": 0.9934
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9773,
+        "probabilities": {
+          "Good": 0.0002,
+          "Moderate": 0.0009,
+          "Poor": 0.0018,
+          "Satisfactory": 0.0006,
+          "Severe": 0.0191,
+          "Very Poor": 0.9773
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 316.0,
+        "no2": 19.7,
+        "so2": 39.2,
+        "co": 0.01,
+        "o3": 5.3,
+        "temperature": 23.5,
+        "relative_humidity": 76.0,
+        "wind_speed": 0.3,
+        "wind_direction": 173.0
+      }
+    },
+    {
+      "station_name": "Ashok Vihar, Delhi - DPCC",
+      "candidate_station": "Ashok Vihar",
+      "region": "Central Delhi",
+      "latitude": 28.695381,
+      "longitude": 77.181665,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Ashok Vihar' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 129.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Aya Nagar, New Delhi - IMD",
+      "candidate_station": "Aya Nagar",
+      "region": "South Delhi",
+      "latitude": 28.474261,
+      "longitude": 77.131606,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Aya Nagar' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": 241.78,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Live Monitoring (No Forecast)",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 345.76,
+        "no2": 52.81,
+        "so2": null,
+        "co": 0.9,
+        "o3": 4.51,
+        "temperature": null,
+        "relative_humidity": null,
+        "wind_speed": null,
+        "wind_direction": null
+      }
+    },
+    {
+      "station_name": "Bawana, Delhi - DPCC",
+      "candidate_station": "Bawana",
+      "region": "North Delhi",
+      "latitude": 28.7762,
+      "longitude": 77.051074,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 195.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Severe",
+        "confidence": 0.9981,
+        "probabilities": {
+          "Good": 0.0,
+          "Moderate": 0.0001,
+          "Poor": 0.0002,
+          "Satisfactory": 0.0,
+          "Severe": 0.9981,
+          "Very Poor": 0.0015
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Severe",
+        "confidence": 0.9797,
+        "probabilities": {
+          "Good": 0.0002,
+          "Moderate": 0.0007,
+          "Poor": 0.0013,
+          "Satisfactory": 0.0005,
+          "Severe": 0.9797,
+          "Very Poor": 0.0176
+        }
+      },
+      "trajectory": "Deteriorating",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 266.0,
+        "no2": 43.4,
+        "so2": 13.5,
+        "co": 1.89,
+        "o3": 14.6,
+        "temperature": 18.9,
+        "relative_humidity": 80.0,
+        "wind_speed": 0.3,
+        "wind_direction": 229.0
+      }
+    },
+    {
+      "station_name": "Dr. Karni Singh Shooting Range, Delhi - DPCC",
+      "candidate_station": "Dr. Karni Singh Shooting Range",
+      "region": "South Delhi",
+      "latitude": 28.498571,
+      "longitude": 77.26484,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Dr. Karni Singh Shooting Range' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 144.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Dwarka-Sector 8, Delhi - DPCC",
+      "candidate_station": "Dwarka",
+      "region": "West Delhi",
+      "latitude": 28.5710274,
+      "longitude": 77.0719006,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 180.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9982,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0004,
+          "Poor": 0.0011,
+          "Satisfactory": 0.0002,
+          "Severe": 0.0,
+          "Very Poor": 0.9982
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9957,
+        "probabilities": {
+          "Good": 0.0002,
+          "Moderate": 0.0011,
+          "Poor": 0.0023,
+          "Satisfactory": 0.0005,
+          "Severe": 0.0001,
+          "Very Poor": 0.9957
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 245.0,
+        "no2": 59.0,
+        "so2": 6.2,
+        "co": 1.1,
+        "o3": 1.9,
+        "temperature": 21.1,
+        "relative_humidity": 83.0,
+        "wind_speed": 0.5,
+        "wind_direction": 246.0
+      }
+    },
+    {
+      "station_name": "ITO, New Delhi - CPCB",
+      "candidate_station": "ITO",
+      "region": "Central Delhi",
+      "latitude": 28.628624,
+      "longitude": 77.24106,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 238.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Severe",
+        "confidence": 0.9984,
+        "probabilities": {
+          "Good": 0.0,
+          "Moderate": 0.0001,
+          "Poor": 0.0002,
+          "Satisfactory": 0.0,
+          "Severe": 0.9984,
+          "Very Poor": 0.0013
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Severe",
+        "confidence": 0.989,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0005,
+          "Poor": 0.0008,
+          "Satisfactory": 0.0002,
+          "Severe": 0.989,
+          "Very Poor": 0.0094
+        }
+      },
+      "trajectory": "Deteriorating",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 296.0,
+        "no2": 40.2,
+        "so2": 17.1,
+        "co": 4.28,
+        "o3": 6.6,
+        "temperature": null,
+        "relative_humidity": null,
+        "wind_speed": null,
+        "wind_direction": null
+      }
+    },
+    {
+      "station_name": "Jahangirpuri, Delhi - DPCC",
+      "candidate_station": "Jahangirpuri",
+      "region": "North Delhi",
+      "latitude": 28.73282,
+      "longitude": 77.170633,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Jahangirpuri' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 194.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Lodhi Road, New Delhi - IMD",
+      "candidate_station": "Lodhi Road",
+      "region": "South Delhi",
+      "latitude": 28.5918245,
+      "longitude": 77.2273074,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Lodhi Road' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": 107.9,
+      "current_aqi_category": "Poor",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Live Monitoring (No Forecast)",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 240.4,
+        "no2": 19.61,
+        "so2": null,
+        "co": 1.6,
+        "o3": 13.57,
+        "temperature": null,
+        "relative_humidity": null,
+        "wind_speed": null,
+        "wind_direction": null
+      }
+    },
+    {
+      "station_name": "Mandir Marg, New Delhi - DPCC",
+      "candidate_station": "Mandir Marg",
+      "region": "Central Delhi",
+      "latitude": 28.636429,
+      "longitude": 77.201067,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 189.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9986,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0004,
+          "Poor": 0.0007,
+          "Satisfactory": 0.0002,
+          "Severe": 0.0,
+          "Very Poor": 0.9986
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9965,
+        "probabilities": {
+          "Good": 0.0002,
+          "Moderate": 0.0009,
+          "Poor": 0.0016,
+          "Satisfactory": 0.0006,
+          "Severe": 0.0001,
+          "Very Poor": 0.9965
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 224.0,
+        "no2": 36.1,
+        "so2": 30.9,
+        "co": 1.4,
+        "o3": 3.7,
+        "temperature": 27.4,
+        "relative_humidity": 94.0,
+        "wind_speed": 0.3,
+        "wind_direction": 25.0
+      }
+    },
+    {
+      "station_name": "Mundka, Delhi - DPCC",
+      "candidate_station": "Mundka",
+      "region": "West Delhi",
+      "latitude": 28.684678,
+      "longitude": 77.076574,
+      "last_observed_at_ist": "2026-11-19 05:00:00+05:30",
+      "observation_age_hours": 0.84,
+      "observation_age_text": "0.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 215.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9985,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0004,
+          "Poor": 0.0007,
+          "Satisfactory": 0.0002,
+          "Severe": 0.0001,
+          "Very Poor": 0.9985
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9892,
+        "probabilities": {
+          "Good": 0.0002,
+          "Moderate": 0.0009,
+          "Poor": 0.0016,
+          "Satisfactory": 0.0006,
+          "Severe": 0.0075,
+          "Very Poor": 0.9892
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 302.0,
+        "no2": 53.5,
+        "so2": 11.9,
+        "co": 1.36,
+        "o3": 3.4,
+        "temperature": 21.0,
+        "relative_humidity": 79.0,
+        "wind_speed": 0.3,
+        "wind_direction": 357.0
+      }
+    },
+    {
+      "station_name": "Najafgarh, Delhi - DPCC",
+      "candidate_station": "Najafgarh",
+      "region": "West Delhi",
+      "latitude": 28.570173,
+      "longitude": 76.933762,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Najafgarh' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 135.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Narela, Delhi - DPCC",
+      "candidate_station": "Narela",
+      "region": "North Delhi",
+      "latitude": 28.822836,
+      "longitude": 77.101981,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Narela' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 136.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Okhla Phase-2, Delhi - DPCC",
+      "candidate_station": "Okhla Phase-2",
+      "region": "East Delhi",
+      "latitude": 28.530785,
+      "longitude": 77.271255,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Okhla Phase-2' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 133.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "candidate_station": "Patparganj",
+      "region": "East Delhi",
+      "latitude": 28.623748,
+      "longitude": 77.287205,
+      "last_observed_at_ist": "2026-11-19 05:00:00+05:30",
+      "observation_age_hours": 0.84,
+      "observation_age_text": "0.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 153.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9988,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0004,
+          "Poor": 0.0006,
+          "Satisfactory": 0.0001,
+          "Severe": 0.0,
+          "Very Poor": 0.9988
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9964,
+        "probabilities": {
+          "Good": 0.0002,
+          "Moderate": 0.001,
+          "Poor": 0.0018,
+          "Satisfactory": 0.0006,
+          "Severe": 0.0001,
+          "Very Poor": 0.9964
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 232.0,
+        "no2": 63.7,
+        "so2": 6.8,
+        "co": 2.54,
+        "o3": 2.5,
+        "temperature": 20.9,
+        "relative_humidity": 81.0,
+        "wind_speed": 0.3,
+        "wind_direction": 84.0
+      }
+    },
+    {
+      "station_name": "Punjabi Bagh, Delhi - DPCC",
+      "candidate_station": "Punjabi Bagh",
+      "region": "West Delhi",
+      "latitude": 28.674045,
+      "longitude": 77.131023,
+      "last_observed_at_ist": "2026-11-19 05:00:00+05:30",
+      "observation_age_hours": 0.84,
+      "observation_age_text": "0.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 237.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Severe",
+        "confidence": 0.9982,
+        "probabilities": {
+          "Good": 0.0,
+          "Moderate": 0.0001,
+          "Poor": 0.0002,
+          "Satisfactory": 0.0,
+          "Severe": 0.9982,
+          "Very Poor": 0.0014
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Severe",
+        "confidence": 0.9022,
+        "probabilities": {
+          "Good": 0.0003,
+          "Moderate": 0.0012,
+          "Poor": 0.002,
+          "Satisfactory": 0.0007,
+          "Severe": 0.9022,
+          "Very Poor": 0.0937
+        }
+      },
+      "trajectory": "Deteriorating",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 289.0,
+        "no2": 40.3,
+        "so2": 31.1,
+        "co": 2.26,
+        "o3": 4.3,
+        "temperature": 24.6,
+        "relative_humidity": 74.0,
+        "wind_speed": 0.3,
+        "wind_direction": 182.0
+      }
+    },
+    {
+      "station_name": "Pusa, Delhi - DPCC",
+      "candidate_station": "Pusa",
+      "region": "Central Delhi",
+      "latitude": 28.639645,
+      "longitude": 77.146262,
+      "last_observed_at_ist": "2026-11-19 05:00:00+05:30",
+      "observation_age_hours": 0.84,
+      "observation_age_text": "0.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 140.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9989,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0004,
+          "Poor": 0.0005,
+          "Satisfactory": 0.0001,
+          "Severe": 0.0,
+          "Very Poor": 0.9989
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9974,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0008,
+          "Poor": 0.0013,
+          "Satisfactory": 0.0004,
+          "Severe": 0.0001,
+          "Very Poor": 0.9974
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 186.0,
+        "no2": 22.4,
+        "so2": 14.1,
+        "co": 2.66,
+        "o3": 2.2,
+        "temperature": 19.7,
+        "relative_humidity": 72.0,
+        "wind_speed": 0.3,
+        "wind_direction": 353.0
+      }
+    },
+    {
+      "station_name": "R K Puram, Delhi - DPCC",
+      "candidate_station": "RK Puram",
+      "region": "South Delhi",
+      "latitude": 28.563262,
+      "longitude": 77.186937,
+      "last_observed_at_ist": "2026-11-19 04:00:00+05:30",
+      "observation_age_hours": 1.84,
+      "observation_age_text": "1.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 153.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9988,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0003,
+          "Poor": 0.0007,
+          "Satisfactory": 0.0001,
+          "Severe": 0.0,
+          "Very Poor": 0.9988
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.997,
+        "probabilities": {
+          "Good": 0.0002,
+          "Moderate": 0.0008,
+          "Poor": 0.0015,
+          "Satisfactory": 0.0004,
+          "Severe": 0.0001,
+          "Very Poor": 0.997
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 178.0,
+        "no2": 51.7,
+        "so2": 5.1,
+        "co": 2.37,
+        "o3": 6.1,
+        "temperature": 19.6,
+        "relative_humidity": 89.0,
+        "wind_speed": 0.3,
+        "wind_direction": 170.0
+      }
+    },
+    {
+      "station_name": "Rohini, Delhi - DPCC",
+      "candidate_station": "Rohini",
+      "region": "North Delhi",
+      "latitude": 28.732528,
+      "longitude": 77.11992,
+      "last_observed_at_ist": "2026-11-19 05:00:00+05:30",
+      "observation_age_hours": 0.84,
+      "observation_age_text": "0.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 229.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.9178,
+        "probabilities": {
+          "Good": 0.0001,
+          "Moderate": 0.0007,
+          "Poor": 0.0014,
+          "Satisfactory": 0.0003,
+          "Severe": 0.0797,
+          "Very Poor": 0.9178
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.7685,
+        "probabilities": {
+          "Good": 0.0002,
+          "Moderate": 0.0009,
+          "Poor": 0.0015,
+          "Satisfactory": 0.0005,
+          "Severe": 0.2285,
+          "Very Poor": 0.7685
+        }
+      },
+      "trajectory": "Stable",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 299.0,
+        "no2": 56.0,
+        "so2": 10.6,
+        "co": 2.19,
+        "o3": 10.3,
+        "temperature": 21.4,
+        "relative_humidity": 81.0,
+        "wind_speed": 0.5,
+        "wind_direction": 314.0
+      }
+    },
+    {
+      "station_name": "Shadipur, Delhi - CPCB",
+      "candidate_station": "Shadipur",
+      "region": "West Delhi",
+      "latitude": 28.6514781,
+      "longitude": 77.1473105,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Shadipur' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 222.9,
+      "measurements": {}
+    },
+    {
+      "station_name": "Sirifort, Delhi - CPCB",
+      "candidate_station": "Sirifort",
+      "region": "South Delhi",
+      "latitude": 28.5504249,
+      "longitude": 77.2159377,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Sirifort' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 221.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Sonia Vihar, Delhi - DPCC",
+      "candidate_station": "Sonia Vihar",
+      "region": "East Delhi",
+      "latitude": 28.710508,
+      "longitude": 77.249485,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Sonia Vihar' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 123.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Sri Aurobindo Marg, Delhi - DPCC",
+      "candidate_station": "Sri Aurobindo Marg",
+      "region": "South Delhi",
+      "latitude": 28.531346,
+      "longitude": 77.190156,
+      "last_observed_at_ist": "2026-11-18 23:00:00+05:30",
+      "observation_age_hours": 6.84,
+      "observation_age_text": "6.8 hours ago",
+      "freshness_status": "OFFLINE",
+      "freshness_label": "\u26aa Offline / No Feed",
+      "is_current_live": false,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": false,
+      "training_status": "Unseen Station (Monitoring Only)",
+      "training_warning": "Station 'Sri Aurobindo Marg' was not among the 13 monitoring stations in the model training dataset (Alipur, Anand Vihar, Bawana, Dwarka, ITO, Mandir Marg, Mundka, Patparganj, Punjabi Bagh, Pusa, RK Puram, Rohini, Vivek Vihar). ML forecasting is disabled for this station to maintain strict model integrity. Real-time sensor monitoring, historical trends, and measurement alerts remain fully active.",
+      "forecast_status": "Forecast unavailable \u2014 station not in training",
+      "current_pm25": null,
+      "current_aqi_category": "Offline / No Feed",
+      "forecast_1h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "forecast_3h": {
+        "predicted_category": "Forecast unavailable \u2014 station not in training",
+        "confidence": null,
+        "probabilities": {}
+      },
+      "trajectory": "Station Offline",
+      "historical_context_pm25": 103.0,
+      "measurements": {}
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "candidate_station": "Vivek Vihar",
+      "region": "East Delhi",
+      "latitude": 28.672342,
+      "longitude": 77.31526,
+      "last_observed_at_ist": "2026-11-19 05:00:00+05:30",
+      "observation_age_hours": 0.84,
+      "observation_age_text": "0.8 hours ago",
+      "freshness_status": "CURRENT_LIVE",
+      "freshness_label": "\ud83d\udfe2 Current Live (<3.0h)",
+      "is_current_live": true,
+      "is_delayed": false,
+      "is_severely_stale": false,
+      "is_seen_in_training": true,
+      "training_status": "Seen in Training",
+      "training_warning": null,
+      "forecast_status": "Operational Forecast",
+      "current_pm25": 194.0,
+      "current_aqi_category": "Very Poor",
+      "forecast_1h": {
+        "predicted_category": "Severe",
+        "confidence": 0.6381,
+        "probabilities": {
+          "Good": 0.0005,
+          "Moderate": 0.0023,
+          "Poor": 0.004,
+          "Satisfactory": 0.0009,
+          "Severe": 0.6381,
+          "Very Poor": 0.3542
+        }
+      },
+      "forecast_3h": {
+        "predicted_category": "Very Poor",
+        "confidence": 0.7899,
+        "probabilities": {
+          "Good": 0.0006,
+          "Moderate": 0.0025,
+          "Poor": 0.0043,
+          "Satisfactory": 0.0016,
+          "Severe": 0.2011,
+          "Very Poor": 0.7899
+        }
+      },
+      "trajectory": "Deteriorating",
+      "historical_context_pm25": null,
+      "measurements": {
+        "pm10": 267.0,
+        "no2": 6.2,
+        "so2": 13.6,
+        "co": 2.32,
+        "o3": 2.6,
+        "temperature": 21.4,
+        "relative_humidity": 78.0,
+        "wind_speed": 0.3,
+        "wind_direction": 161.0
+      }
+    }
+  ]
+}
